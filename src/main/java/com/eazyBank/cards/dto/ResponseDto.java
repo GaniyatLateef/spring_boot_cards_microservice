@@ -10,9 +10,9 @@ import lombok.Data;
 public class ResponseDto {
 
     @Schema(description = "Status Code in the response")
-   private String statusCode;
+    private String statusCode;
 
     @Schema(description = "Status Message in the response")
-   private String statusMsg;
+    private String statusMsg;
 }
 
