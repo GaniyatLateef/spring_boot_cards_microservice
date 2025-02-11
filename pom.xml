@@ -88,7 +88,7 @@
 				<version>3.4.2</version>
 				<configuration>
 					<to>
-						<image>galatex/${project.artifactId}:1.0</image>
+						<image>galatex/${project.artifactId}:2.0</image>
 					</to>
 				</configuration>
 			</plugin>
